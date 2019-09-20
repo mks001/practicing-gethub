@@ -35,7 +35,7 @@
     
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="./corp_master.php" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="./corp_master1.php" id="aspnetForm">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />

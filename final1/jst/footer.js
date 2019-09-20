@@ -1,0 +1,1 @@
+document.write('<div id="footer">Best viewed in 1024*768 pixel resolution with IE 6.0 or above | Powered by : <a target="_blank" href="http://www.otpl.co.in"><span class="redfnt">omni</span><span class="bluFnt">-NET</span> </a> </div>')
